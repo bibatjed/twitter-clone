@@ -1,0 +1,11 @@
+.sidebar {
+    display: flex;
+    /* align-content: center; */
+    flex-direction: column;
+}
+
+
+.sidebar > .MuiSvgIcon-root {
+  font-size: 3rem;
+  color: var(--twitter-color);
+}

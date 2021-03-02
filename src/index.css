@@ -1,3 +1,14 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+
+  /* for rem */
+  font-size: 10px;
+
+  --twitter-color: #50b7f5;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
