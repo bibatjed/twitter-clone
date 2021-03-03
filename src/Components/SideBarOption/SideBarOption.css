@@ -3,13 +3,13 @@
   align-items: center;
   cursor: pointer;
   padding-right: 2rem;
+  max-width: fit-content;
 }
 
 .sideBarOption:hover {
   background-color: #e8f5fe;
   color: var(--twitter-color);
   border-radius: 3rem;
-  max-width: fit-content;
 }
 
 .sideBarOption__icon {
