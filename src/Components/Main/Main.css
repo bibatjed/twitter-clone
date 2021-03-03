@@ -1,9 +1,9 @@
-.main {
+.Main {
   flex: 0.4;
   border-left: 1px solid var(--twitter-background);
   min-height: 100vh;
 }
-.main__header {
+.Main__Header {
   display: flex;
   position: sticky;
   z-index: 2;
@@ -16,11 +16,11 @@
   background-color: white;
 }
 
-.main__header h1 {
+.Main__Header h1 {
   font-size: 2rem;
 }
 
-.main__header .MuiSvgIcon-root {
+.Main__Header .MuiSvgIcon-root {
   font-size: 2.5rem;
   color: var(--twitter-color);
   cursor: pointer;

@@ -5,8 +5,8 @@ import CardPost from "../CardPost/CardPost";
 
 function Main() {
   return (
-    <div className="main">
-      <div className="main__header">
+    <div className="Main">
+      <div className="Main__Header">
         <h1>Home</h1>
         <StarBorderIcon />
       </div>

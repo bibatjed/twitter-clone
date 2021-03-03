@@ -1,4 +1,4 @@
-.sideBarOption {
+.SideBarOption {
   display: flex;
   align-items: center;
   cursor: pointer;
@@ -6,20 +6,20 @@
   max-width: fit-content;
 }
 
-.sideBarOption:hover {
+.SideBarOption:hover {
   background-color: #e8f5fe;
   color: var(--twitter-color);
   border-radius: 3rem;
 }
 
-.sideBarOption__icon {
+.SideBarOption__Icon {
   padding: 2rem;
 }
 
-.sideBarOption .sideBarOption__icon .MuiSvgIcon-root {
+.SideBarOption .SideBarOption__Icon .MuiSvgIcon-root {
   font-size: 2.5rem;
 }
 
-.sideBarOption h1 {
+.SideBarOption h1 {
   font-size: 2rem;
 }
